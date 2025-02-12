@@ -13,7 +13,10 @@ Para realizar o relato o usuário deve estar autenticado, ou seja, função habi
 
 ## Aplicação desenvolvida
 
+https://github.com/user-attachments/assets/74bd4724-845f-4eb2-94f9-6bb7f2d6b369
 
-https://github.com/user-attachments/assets/9df4e4ef-de2f-4764-ac45-8e217ecc75c5
+
+
+
 
 
